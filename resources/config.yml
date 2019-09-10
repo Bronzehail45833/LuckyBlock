@@ -6,7 +6,7 @@ usage-of-PiggyCustomEnchants: false
 
 # Item of the LuckyBlock (default 19: sponge):
   # id:meta
-block: "19:0"
+block: "381:0"
 
 # Useful tips before starting the configuration:
   # You can use {playerName} tag to add the player name to a command, message...
