@@ -27,7 +27,7 @@ class Main extends PluginBase {
 	public $piggyPlugin;
 
 	/** @var $prefix the prefix */
-	const PREFIX = "§e[§bLuckyBlock§e]§r" . " ";
+	const PREFIX = "§e[§bMinions§e]§r" . " ";
 
 	/**
 	 * When the plugin is started.
